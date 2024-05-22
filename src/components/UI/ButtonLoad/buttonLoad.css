@@ -1,0 +1,18 @@
+.button-load {
+	display: block;
+	box-shadow: 0px 6px 10px 0px #00000024;
+
+	box-shadow: 0px 1px 18px 0px #0000001f;
+
+	box-shadow: 0px 3px 5px 0px #00000033;
+	margin: 0 auto;
+	background: #f2f9fe;
+	color: #2196f3;
+	padding: 10px 32px;
+	text-transform: uppercase;
+	font-size: 14px;
+	line-height: 16px;
+	letter-spacing: 1.25px;
+	border: none;
+	margin-bottom: 44px;
+}

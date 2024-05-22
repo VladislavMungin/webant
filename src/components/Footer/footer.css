@@ -1,0 +1,13 @@
+.footer {
+	box-shadow: -2px 0px 8px 2px #0000001a;
+	height: 60px;
+	width: 100%;
+	margin-top: 5%;
+}
+.footer-text {
+	text-align: center;
+	font-weight: 800;
+	font-size: 18px;
+	line-height: 21px;
+	padding: 20px 0;
+}
